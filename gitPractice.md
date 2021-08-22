@@ -1,4 +1,4 @@
-# hello git
+# Git & Github 사용법 연습
 
 ## git command summary
 
