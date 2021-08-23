@@ -51,3 +51,7 @@ HEAD
 ## 
 collision branch는 여기서 하나 더 나가서 이자리에 다른 내용이 있음
 pull 충돌할것
+
+## pull 충돌
+
+    - 검내지 말자 
